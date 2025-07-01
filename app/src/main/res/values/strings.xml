@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">learningApp</string>
+    <string name="get_answer">Get the answer</string>
+</resources>

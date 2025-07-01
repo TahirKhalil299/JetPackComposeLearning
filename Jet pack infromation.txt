@@ -1,0 +1,2 @@
+Nav host --control all  the screen in our application
+nav Host controller--use it to navigate from one screen to another screen
